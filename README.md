@@ -1,2 +1,29 @@
+# COVID QA Analysis
+### Yash Khandelwal, Kaushik Ravindran
 
-Colab Notebook: https://colab.research.google.com/drive/1LUqoqHcdNWlO6W4fRdG3KnroEFrjnGKK?authuser=2
+github: https://github.com/yashskhandelwal/Covid_QA_Analysis
+
+#### Expected outputs per model:
+##### Evaluation:
+* Exact Match
+* F1 Score
+##### Training time:
+* Time taken to fine tune the model
+* Average prediction time
+##### Environmental impact:
+* GPU Details
+* CO2 emission impact of trainnig the model
+#### List of models
+* BERT: Base, Large
+* RoBERTa: Base, Large
+* DistilBERT: Base
+* ALBERT: Base, XXL
+* ELECTRA: Base
+* LongFormer: Base, Large
+* BigBird: base
+#### Main libraries:
+* pyTorch
+* transformers (HuggingFace)
+* tokenizers (HuggingFace)
+* datasets (HuggingFace)
+* codecarbon

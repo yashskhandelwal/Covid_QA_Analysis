@@ -21,8 +21,6 @@ fine-tuned models page: https://huggingface.co/armageddon
 * DistilBERT: Base
 * ALBERT: Base, XXL
 * ELECTRA: Base
-* LongFormer: Base, Large
-* BigBird: base
 #### Main libraries:
 * PyTorch
 * transformers (HuggingFace)

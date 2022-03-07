@@ -2,6 +2,7 @@
 ### Yash Khandelwal, Kaushik Ravindran
 
 github: https://github.com/yashskhandelwal/Covid_QA_Analysis
+fine-tuned models page: https://huggingface.co/armageddon
 
 #### Expected outputs per model:
 ##### Evaluation:

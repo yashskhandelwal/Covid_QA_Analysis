@@ -22,7 +22,7 @@ github: https://github.com/yashskhandelwal/Covid_QA_Analysis
 * LongFormer: Base, Large
 * BigBird: base
 #### Main libraries:
-* pyTorch
+* PyTorch
 * transformers (HuggingFace)
 * tokenizers (HuggingFace)
 * datasets (HuggingFace)

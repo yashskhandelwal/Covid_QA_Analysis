@@ -5,7 +5,7 @@ github: https://github.com/yashskhandelwal/Covid_QA_Analysis
 
 fine-tuned models page: https://huggingface.co/armageddon
 
-#### Expected outputs per model:
+#### Metics per model:
 ##### Evaluation:
 * Exact Match
 * F1 Score
@@ -21,11 +21,10 @@ fine-tuned models page: https://huggingface.co/armageddon
 * DistilBERT: Base
 * ALBERT: Base, XXL
 * ELECTRA: Base
-* LongFormer: Base, Large
-* BigBird: base
 #### Main libraries:
 * PyTorch
 * transformers (HuggingFace)
 * tokenizers (HuggingFace)
 * datasets (HuggingFace)
 * codecarbon
+* seaborn (visualization)
